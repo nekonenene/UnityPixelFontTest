@@ -498,7 +498,7 @@ PrefabInstance:
     - target: {fileID: 549603734998275468, guid: f85e9688fced54cb08b2c0edcb149029,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 549603734998275468, guid: f85e9688fced54cb08b2c0edcb149029,
         type: 3}
@@ -586,12 +586,12 @@ PrefabInstance:
         type: 3}
       propertyPath: m_FontData.m_Font
       value: 
-      objectReference: {fileID: 12800000, guid: ad5b75d146c534e0b8a3045fe16bf1bd,
+      objectReference: {fileID: 12800000, guid: 857456991cc254067928832b6051015c,
         type: 2}
     - target: {fileID: 1137477025179782289, guid: f85e9688fced54cb08b2c0edcb149029,
         type: 3}
       propertyPath: m_FontData.m_FontSize
-      value: 20
+      value: 16
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f85e9688fced54cb08b2c0edcb149029, type: 3}
